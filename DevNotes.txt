@@ -1,0 +1,14 @@
+#All the reported features go HERE. The format of the features should be as follows.
+#
+#	Ft#1 - Design HomeActivity			- Aniket Khaire
+#		{Description can be provided HERE}
+#
+#	Ft#2 - Add List View to DetailActivity		- Unmesh Deshmukh
+#		{Description can be provided HERE}
+
+
+#Similar structure can be followed for BugList
+#
+#	Bug#1 - FixTypoInReadme				- Tanvi Shukla
+#	Bug#2 - FixResponseFromAdonisServer		- Faisal Mohammad
+#
